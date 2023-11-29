@@ -33,7 +33,7 @@ Estudante finalista de Engenharia Informática no ISEP e entusiasta de desporto,
 Em breve, disponibilizarei alguns dos projetos nos quais estive envolvido ao longo da licenciatura.
 
 ## Colaboração
-Busco oportunidades de estágio alinhadas com as minhas ambições profissionais e pessoais, onde possa aplicar a minha paixão pela inovação e explorar novas tecnologias.
+Busco oportunidades de estágio alinhadas com as minhas ambições profissionais e pessoais, onde possa explorar novas tecnologias e aplicar a minha paixão pela inovação.
 
 ## Como Entrar em Contato
 - LinkedIn: [Leandro Minguta Fernandes](www.linkedin.com/in/leandro-fernandes-b690252a2)
