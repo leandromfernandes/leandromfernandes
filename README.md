@@ -36,6 +36,6 @@ Em breve, disponibilizarei alguns dos projetos nos quais estive envolvido ao lon
 Busco oportunidades de estágio alinhadas com as minhas ambições profissionais e pessoais, onde possa explorar novas tecnologias e aplicar a minha paixão pela inovação.
 
 ## Como Entrar em Contato
-- LinkedIn: [Leandro Minguta Fernandes](www.linkedin.com/in/leandro-fernandes-b690252a2)
+- LinkedIn: [Leandro Minguta Fernandes](https://www.linkedin.com/in/leandro-fernandes-b690252a2)
 - Email: leandro.m.fernandes@hotmail.com
 
