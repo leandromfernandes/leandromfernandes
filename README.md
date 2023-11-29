@@ -1,5 +1,5 @@
 ## Sobre mim
-Estudante finalista de Engenharia Informática no ISEP e entusiasta de desporto, especialmente apaixonado por futebol.
+Estudante finalista da licenciatura de Engenharia Informática no ISEP e entusiasta de desporto, especialmente apaixonado por futebol.
 
 ## Interesses profissionais
 - Frontend
