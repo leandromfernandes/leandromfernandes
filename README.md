@@ -13,7 +13,7 @@ Estudante finalista da licenciatura de Engenharia Informática no ISEP e entusia
 
 ## Competências Técnicas
 
-- .NET (em aprendizagem)
+- .NET
 - Java
 - C, C#, C++
 - HTML, JavaScript, TypeScript
